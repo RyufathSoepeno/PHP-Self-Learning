@@ -6,7 +6,7 @@
 $x = 18;
 $y = "Ryufath";
 
-echo "Hey, my name is $y I am $x"
+echo "Hey, my name is $y I am $x";
 
 #print sum
 
