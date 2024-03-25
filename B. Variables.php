@@ -12,7 +12,7 @@ echo "Hey, my name is $y I am $x";
 
 $z = 10;
 
-echo $x + $y;
+echo $x + $z;
 
 // Integer
 $intVar = 10;
