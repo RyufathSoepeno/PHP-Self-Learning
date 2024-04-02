@@ -1,3 +1,5 @@
+<?php
+
 function myMessage() {
   echo "You are amazing";
 }
@@ -48,3 +50,5 @@ function sumMyNumbers(...$x) {
 
 $a = sumMyNumbers(5, 2, 6, 2, 7, 7);
 echo $a;
+
+?>
