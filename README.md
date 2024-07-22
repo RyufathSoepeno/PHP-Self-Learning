@@ -1,7 +1,4 @@
 # ReadMe Tutorials on Github
 
-<ul>
-  <li>Point 1</li>
-  <li>Point 2</li>
-</ul>
+<a href="https://github.com/RyufathSoepeno/PHP-Self-Learning/edit/main/README.md">My ReadMe</a>
 
